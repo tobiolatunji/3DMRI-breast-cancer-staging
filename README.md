@@ -6,6 +6,15 @@ Breast Cancer is the 2nd leading cause of cancer deaths in women in the US costi
 
 This project seeks to build a model that correctly predicts the stage of breast cancer (early or late) by combining Imaging, Genomic and Clinical data to improve Oncology decision support.
 
-For the purpose of this project
-Early Stage - Stage 1a, 1b, 2a, 2b, 3a
-Late Stage - Stage 3b, 3c, 4
+For the purpose of this project:
+
+Early Stage (Based on Prognosis)
+- Stage 1a
+- Stage 1b
+- Stage 2a
+- Stage 2b
+- Stage 3a
+Late Stage (Based on Prognosis)
+- Stage 3b
+- Stage 3c
+- Stage 4
