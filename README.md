@@ -8,13 +8,14 @@ This project seeks to build a model that correctly predicts the stage of breast 
 
 For the purpose of this project:
 
-Early Stage (Based on Prognosis)
+1. Early Stage (Based on Prognosis)
 - Stage 1a
 - Stage 1b
 - Stage 2a
 - Stage 2b
 - Stage 3a
-Late Stage (Based on Prognosis)
+
+2. Late Stage (Based on Prognosis)
 - Stage 3b
 - Stage 3c
 - Stage 4
